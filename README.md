@@ -48,5 +48,5 @@ ___
 ___  
 https://regex101.com - сайт, позволяющий тестировать регулярные выражения    
 ___  
-https://docs.python.org/3/library/re.html - оригинальная документация  
+https://docs.python.org/3/library/re.html - документация  
 
